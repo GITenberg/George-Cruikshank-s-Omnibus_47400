@@ -1,10 +1,14 @@
 _repo: George-Cruikshank-s-Omnibus_47400
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Blanchard, Laman
       gutenberg_agent_id: '44294'
       url: http://www.gutenberg.org/2009/agents/44294
+covers:
+- cover_type: archival
+  image_path: 47400-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Cruikshank, George
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
 description: Frank Heartwell.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47400#George-Cruikshank-s-Omnibus
 gutenberg_issued: '2014-11-20'
 gutenberg_type: Text
 identifiers:
